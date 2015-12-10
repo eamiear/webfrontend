@@ -1,4 +1,7 @@
-My Awesome Book
+Web Component
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+>一些样式组件/常用样式  
+>一些JavaScript知识的收录
+
+
